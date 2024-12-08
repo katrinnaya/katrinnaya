@@ -3,7 +3,7 @@ DE-manager | Архитектор решений
 
 ## Контактная информация
 - **Email:** paloma_katya@mail.ru
-- **Телефон:** +7 (968) 992 70 50
+- **Телефон:** +7 (968) 992 70 61
 - **GitHub:** https://github.com/katrinnaya/
 
 ## Навыки
