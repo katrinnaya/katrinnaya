@@ -58,6 +58,6 @@ DE-manager | Архитектор решений
 Готова обучаться новому и развивать технические навыки. 
 
 ## Проекты (на текущий момент реальные проекты отсутствуют)
-1. **Учебный проект 1: Развертывание локального Kafka кластера с использованием Docker Compose.**
+1. **Учебный проект: Развертывание локального Kafka кластера с использованием Docker Compose.**
    - Инструменты: Python, Kafka, Docker Compose
-   - Репозиторий: (https://github.com/katrinnaya/kafka-project_generation_and_read_consumer_activitity)
+   - Репозиторий: https://github.com/katrinnaya/kafka-project_generation_and_read_consumer_activitity
