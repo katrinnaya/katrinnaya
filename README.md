@@ -61,6 +61,7 @@ DE-manager | Архитектор решений
 1. **Учебный проект: Развертывание локального Kafka кластера с использованием Docker Compose.**
    - Инструменты: Python, Kafka, Docker Compose
    - Репозиторий: https://github.com/katrinnaya/kafka-project_generation_and_read_consumer_activitity
- 2. **Учебный проект: Мониторинг банковских транзакций с использованием Kafka** 
+     
+2. **Учебный проект: Мониторинг банковских транзакций с использованием Kafka**
    - Инструменты: Python, Kafka, Docker Compose
    - Репозиторий: [https://github.com/katrinnaya/kafka-project_generation_and_read_consumer_activitity](https://github.com/katrinnaya/bank_transaction_analysis)
