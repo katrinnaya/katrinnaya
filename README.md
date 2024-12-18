@@ -57,11 +57,14 @@ DE-manager | Архитектор решений
 
 Готова обучаться новому и развивать технические навыки. 
 
-## Проекты (на текущий момент реальные проекты отсутствуют)
-1. **Учебный проект: Развертывание локального Kafka кластера с использованием Docker Compose.**
+## Проекты
+1. **Учебный проект: Развертывание локального Kafka кластера с использованием Docker Compose**
    - Инструменты: Python, Kafka, Docker Compose
    - Репозиторий: https://github.com/katrinnaya/kafka-project_generation_and_read_consumer_activitity
      
 2. **Учебный проект: Мониторинг банковских транзакций с использованием Kafka**
    - Инструменты: Python, Kafka, Docker Compose
    - Репозиторий: [https://github.com/katrinnaya/kafka-project_generation_and_read_consumer_activitity](https://github.com/katrinnaya/bank_transaction_analysis)
+3. **Проект FastAPI: Планировщик дел TODO и Сервис Сокращения URL**
+   - Инструменты: FastAPI, Python, SQLite, Docker, Postman, Uvicorn
+   - Репозиторий: https://github.com/katrinnaya/fastapi-project 
