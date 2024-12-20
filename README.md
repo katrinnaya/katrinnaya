@@ -67,4 +67,7 @@ DE-manager | Архитектор решений
    - Репозиторий: [https://github.com/katrinnaya/kafka-project_generation_and_read_consumer_activitity](https://github.com/katrinnaya/bank_transaction_analysis)
 3. **Проект FastAPI: Планировщик дел TODO и Сервис Сокращения URL**
    - Инструменты: FastAPI, Python, SQLite, Docker, Postman, Uvicorn
-   - Репозиторий: https://github.com/katrinnaya/fastapi-project 
+   - Репозиторий: https://github.com/katrinnaya/fastapi-project
+4.  **Проект FastAPI: Микросервис для ветеринарной клиники по хранению и обновления информации для собак** 
+   - Инструменты: FastAPI, Python, PostgreSQL, Docker, Postman, Uvicorn
+   - Репозиторий: [https://github.com/katrinnaya/fastapi-project](https://github.com/katrinnaya/Software-Engineering-Practices/tree/task_05) 
