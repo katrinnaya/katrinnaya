@@ -70,4 +70,9 @@ DE-manager | Архитектор решений
    - Репозиторий: https://github.com/katrinnaya/fastapi-project
 4.  **Проект FastAPI: Микросервис для ветеринарной клиники по хранению и обновления информации для собак** 
    - Инструменты: FastAPI, Python, PostgreSQL, Docker, Postman, Uvicorn
-   - Репозиторий: [https://github.com/katrinnaya/fastapi-project](https://github.com/katrinnaya/Software-Engineering-Practices/tree/task_05) 
+   - Репозиторий: [https://github.com/katrinnaya/fastapi-project](https://github.com/katrinnaya/Software-Engineering-Practices/tree/task_05)
+5.  **Проект ETL: Репликация данных из MongoDB в PostgreSQL с использованием Apache Airflow**
+
+     Настройка ETL-процесса для репликации данных из нереляционной базы данных (MongoDB) в реляционную базу данных (PostgreSQL) с использованием Apache Airflow. Проект включает генерацию данных, настройку репликации и проверку корректности переноса данных.
+   - Инструменты: Apache Airflow, MongoDB, PostgreSQL, Docker, Python
+   - Репозиторий: https://github.com/katrinnaya/etl_proc/tree/final_module_hw
