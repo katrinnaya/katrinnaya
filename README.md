@@ -25,6 +25,7 @@
 - **Анализ данных**: Pandas, NumPy
 - **Версионный контроль**: Git
 - **API тестирование**: SoapUI, Postman, Swagger
+- **BI-аналитика**: Tableau Public, Yandex DataLens
   
 ### Soft Skills
 - Аналитический склад ума
