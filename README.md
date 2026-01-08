@@ -91,5 +91,5 @@
    - Инструменты: Apache Airflow, MongoDB, PostgreSQL, Docker, Python
    - Репозиторий: https://github.com/katrinnaya/etl_proc/tree/final_module_hw
 6. **Проект ETL: Агрегация данных из PostgreSQL и MySQL в хранилище Iceberg с визуализацией через Trino и Jupyter Notebook**
-   - Инструменты: Python, Trino, PostgreSQL, MySQL, Iceberg  (MinIO хранилище), Docker Compose
-   - Репозиторий: https://github.com/katrinnaya/SN_Palamarchuk/tree/final_hw
+  - Инструменты: Python, Trino, PostgreSQL, MySQL, Iceberg  (MinIO хранилище), Docker Compose
+  - Репозиторий: https://github.com/katrinnaya/SN_Palamarchuk/tree/final_hw
